@@ -7,7 +7,7 @@ int main()
     int linecounter;
     linecounter = 1;
 
-    if (linecounter = 1)
+    if (linecounter == 1)
     {
         cout << "*********" << endl;
           linecounter = linecounter + 1;
@@ -19,7 +19,7 @@ int main()
         linecounter = linecounter + 1;
     }
 
-    if ( linecounter = 9 )
+    if ( linecounter == 9 )
     {
         cout << "*********" << endl;
     }
